@@ -2,9 +2,7 @@
 
 ## Authors
 *Sreejit Chaudhury, Jadavpur University.    
-
 Ajeet Kumar, Applied Statistical Unit, Indian Statistical Institute. 
-
 
 Subhamoy Maitra, Applied Statistical Unit, Indian Statistical Institute. 
 
