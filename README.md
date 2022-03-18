@@ -31,11 +31,12 @@ For Non-Merged Dimension Reduction Approach -
 ## Code Guide
 
 ```
-+-- Heur. 
-|   +-- .  
-|   +-- ..  
-|   +-- ...    
-+-- D1       
++-- Heuristics
++-- Merged_4sets
++-- Merged_5sets
++-- NonMerged_4sets
++-- NonMerged_5sets
++-- images      
 ````
 
 
