@@ -30,7 +30,8 @@ For Non-Merged Dimension Reduction Approach -
 
 ## Code Guide
 
-`
+```
+
 +-- Heur. 
 
 |   +-- .  
@@ -40,6 +41,6 @@ For Non-Merged Dimension Reduction Approach -
 
 |   +-- ...    
 +-- D1       
-`
+````
 
 
