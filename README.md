@@ -42,20 +42,32 @@ For Non-Merged Dimension Reduction Approach -
 |   +-- .DS_Store
 +-- Merged_4sets
 |   +-- dim6
+    |   +-- dim6.py
 |   +-- dim10
+    |   +-- dim10.py
 |   +-- dim46
+    |   +-- dim46.py
 +-- Merged_5sets
 |   +-- dim6
+    |   +-- dim6.py
 |   +-- dim10
+    |   +-- dim10.py
 |   +-- dim46
+    |   +-- dim46.py
 +-- NonMerged_4sets
 |   +-- dim6
+    |   +-- dim6.py
 |   +-- dim10
+    |   +-- dim10.py
 |   +-- dim46
+    |   +-- dim46.py
 +-- NonMerged_5sets
 |   +-- dim6
+    |   +-- dim6.py
 |   +-- dim10
+    |   +-- dim10.py
 |   +-- dim46
+    |   +-- dim46.py
 +-- images 
 |   +-- MergedSchematic.png
 |   +-- NonMergedSchematic.png
