@@ -29,12 +29,11 @@ For Non-Merged Dimension Reduction Approach -
 
 
 ## Code Guide
-...
-+-- Heur
+
+`+-- Heur
 |   +-- .
 |   +-- ..
 |   +-- ...
-+-- D1
-+-- D2
-...
++-- D1`
+
 
