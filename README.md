@@ -26,8 +26,20 @@ For Non-Merged Dimension Reduction Approach -
 ![Non-Merged Approach](/images/NonMergedSchematic.png)
 
 ## Results
-Table1 : Numerical Results From Merged Technique : Algorith 1
+Table1 : Numerical Results From Merged Technique : Algorithm 1
 ![Table1](/images/Table1.png)
+
+Table2 : Numerical Results From Merged Technique : Algorithm 1
+![Table2](/images/Table2.png)
+
+Table3 : Numerical Results From Merged Technique : Algorithm 1
+![Table3](/images/Table3.png)
+
+Table4 : Numerical Results From Merged Technique : Algorithm 1
+![Table4](/images/Table4.png)
+
+Table5 : Numerical Results From Merged Technique : Algorithm 1
+![Table5](/images/Table5.png)
 
 ## Code Guide
 
