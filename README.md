@@ -26,19 +26,19 @@ For Non-Merged Dimension Reduction Approach -
 ![Non-Merged Approach](/images/NonMergedSchematic.png)
 
 ## Results
-Table1 : Numerical Results From Merged Technique : Algorithm 1
+Table 1 : Numerical Results For Merging Technique : Algorithm 1.
 ![Table1](/images/Table1.png)
 
-Table2 : Numerical Results From Merged Technique : Algorithm 1
+Table 2 : Numerical Results For Heuristic Search (Algorithm 4) on the bases obtained from Merged Technique wrt ASD (D^2).
 ![Table2](/images/Table2.png)
 
-Table3 : Numerical Results From Merged Technique : Algorithm 1
+Table 3 : Numerical Results For Heuristic Search (Algorithm 4) on the bases obtained from Merged Technique wrt Drift Measure (S).
 ![Table3](/images/Table3.png)
 
-Table4 : Numerical Results From Merged Technique : Algorithm 1
+Table 4 : Numerical Results For Non-Merging Technique : Algorithm 2.
 ![Table4](/images/Table4.png)
 
-Table5 : Numerical Results From Merged Technique : Algorithm 1
+Table 5 : Numerical Results For Heuristic Search (Algorithm 4) on the bases obtained from Non-Merged Technique wrt ASD (D^2).
 ![Table5](/images/Table5.png)
 
 ## Code Guide
