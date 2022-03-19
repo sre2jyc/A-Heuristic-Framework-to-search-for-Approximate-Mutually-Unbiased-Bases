@@ -41,6 +41,10 @@ Table 4 : Numerical Results For Non-Merging Technique : Algorithm 2.
 Table 5 : Numerical Results For Heuristic Search (Algorithm 4) on the bases obtained from Non-Merged Technique wrt ASD (D^2).
 ![Table5](/images/Table5.png)
 
+Table 6 : Numerical Results For Heuristic Search (Algorithm 4) on the bases obtained from Non-Merged Technique wrt Drift Measure (S).
+![Table6](/images/Table6.png)
+
+_______________________________________________________________________________________________________________________________________
 ## Code Guide
 
 ```
