@@ -910,6 +910,32 @@ def descent(Bases,step):
 
     return newBases
 
+def calculatingBeta(Bases):
+    nB = len(Bases)
+    d = 46
+    s = []
+    for i in range(nB):
+        A = Bases[i]
+        for j in range(i+1,nB):
+            B = Bases[j]
+            for x in range(len(A)):
+                for y in range(len(B)):
+                    v1 = np.array(A[x])
+                    v2 = np.array(B[y])
+                    p = v1 * v2
+                    q = np.abs(np.sum(p))
+                    s.append(math.sqrt(d) * q)
+
+    # print(s)
+    # print(f"Max : {max(s)}")
+    maxs = -1
+    for i in range(len(s)):
+        if s[i] > maxs:
+            maxs = s[i]
+    return maxs
+
+  
+
 if __name__ == "__main__":
   
     # importFiles()
@@ -977,6 +1003,9 @@ if __name__ == "__main__":
     meas2 = measure2(BestBases)
     # print((meas2))
     print(f"Max Value of Measure2 : {max(meas2)}")
+
+    beta = calculatingBeta(BestBases)
+    print(f"Beta Value : {beta}")
 
 
 
